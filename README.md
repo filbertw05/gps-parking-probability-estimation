@@ -1,6 +1,6 @@
-# Estimating Lot-Level Parking Success Probabilities
+# GPS-Based Inference of Lot-Level Parking Probabilities
 
-This repository contains the simulation and analysis code for the 1.200 project **Estimating Lot-Level Parking Success Probabilities: A Simulated Grid-Based Extension of Probability-Aware Parking Selection**.
+This repository contains the simulation and analysis code for the 1.200 project **GPS-Based Inference of Lot-Level Parking Probabilities for Probability-Aware Parking Selection**.
 
 The project studies whether GPS-style vehicle traces can be used to estimate lot-level parking success probabilities. The original probability-aware parking-selection framework assumes that each parking lot's success probability is already known; this project simulates a city, generates vehicle traces, estimates those probabilities from traces, and compares trace-based estimators against the known ground truth from the simulator.
 
