@@ -1,4 +1,0 @@
-estimator,mae,rmse,corr,n_used,notes
-trace_exposure,0.22584983831689465,0.26924864034691753,0.4061986419488545,155,Uses inferred exposure from observed traces only.
-stop_confirmed,0.10149280562722628,0.1291719066201589,0.7269034650071731,155,Uses repeated observed locations at parking cells as confirmed parking attempts; success only if the repeated point ends the trace.
-oracle_exposure,0.04441151388424527,0.057909925457209084,0.9437025266048464,155,Uses hidden availability draws; evaluation upper bound.
